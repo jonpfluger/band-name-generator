@@ -19,6 +19,7 @@
   "homepage": "https://github.com/jonpfluger/band-name-generator#readme",
   "dependencies": {
     "chalk-animation": "^2.0.3",
+    "inquirer": "^9.1.4",
     "random-word-slugs": "^0.1.6"
   }
 }
